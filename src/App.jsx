@@ -67,7 +67,7 @@ const BRAND = {
     border: "#EDEDED",
   },
 
-  // 👉 Coloca el logo en /public/LogoND1.jpg
+  // Coloca el logo en /public/LogoND1.jpg
   logoPath: "/LogoND1.jpg",
 
   // Imágenes (IA) — coloca en /public/img/
