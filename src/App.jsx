@@ -703,9 +703,9 @@ export default function NutriDeliciasFitTempSite() {
               </div>
 
               <div className="rounded-2xl border p-5 text-sm" style={{ backgroundColor: BRAND.colors.softOrange, borderColor: `${BRAND.colors.orange}33` }}>
-                <div className="font-black" style={{ color: BRAND.colors.greenDark }}>Tip rápido</div>
+                <div className="font-black" style={{ color: BRAND.colors.greenDark }}>Haz tu pedido a tiempo!</div>
                 <div className="mt-1" style={{ color: "#555" }}>
-                  En tu estado/WhatsApp pon: <b>“MENÚ + PRECIO + Corte {BRAND.cutoffTime}”</b>. Esta web te ayuda a cerrar sin explicar todo.
+                  Más si te pasas de la hora :D <b>“{BRAND.cutoffTime}”</b>. de todas formas pregunta disponibilidad 😃.
                 </div>
               </div>
             </div>
