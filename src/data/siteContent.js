@@ -31,12 +31,12 @@ export const colors = {
 
 export const menuToday = {
   label: "Menú de hoy",
-  date: "Viernes 15 de mayo",
+  date: "Lunes 18 de mayo",
   location: "Cercado — Cochabamba",
   items: [
-    { type: "Sopa", name: "Avena", description: "Sopa diaria, ideal para acompañar tu almuerzo.", badge: "Clásico" },
-    { type: "Segundo", name: "Chicharrón de pollo + papa wayk’u + mote", description: "Opción tradicional, contundente y sabrosa para el almuerzo.", badge: "Popular" },
-    { type: "Saludable", name: "Chicharrón de pollo + mote + ensalada de zanahoria crujiente con queso y tomate", description: "Versión más equilibrada para quienes quieren comer rico cuidando su rutina.", badge: "Fit" },
+    { type: "Sopa", name: "Carotitos", description: "Sopa diaria, ideal para acompañar tu almuerzo.", badge: "Clásico" },
+    { type: "Segundo", name: "Pollo a la Broaster + arroz + papa frita", description: "Opción tradicional, contundente y sabrosa para el almuerzo.", badge: "Popular" },
+    { type: "Saludable", name: "Pollo al vapor con espinacas + omelette + ensalada de remolacha con zanahoria y papa en cubitos", description: "Versión más equilibrada para quienes quieren comer rico cuidando su rutina.", badge: "Fit" },
   ],
 };
 
