@@ -31,12 +31,12 @@ export const colors = {
 
 export const menuToday = {
   label: "Menú de hoy",
-  date: "Lunes 18 de mayo",
+  date: "Martes 8 de julio",
   location: "Cercado — Cochabamba",
   items: [
-    { type: "Sopa", name: "Carotitos", description: "Sopa diaria, ideal para acompañar tu almuerzo.", badge: "Clásico" },
-    { type: "Segundo", name: "Pollo a la Broaster + arroz + papa frita", description: "Opción tradicional, contundente y sabrosa para el almuerzo.", badge: "Popular" },
-    { type: "Saludable", name: "Pollo al vapor con espinacas + omelette + ensalada de remolacha con zanahoria y papa en cubitos", description: "Versión más equilibrada para quienes quieren comer rico cuidando su rutina.", badge: "Fit" },
+    { type: "Sopa", name: "Quinua", description: "Sopa diaria, ideal para acompañar tu almuerzo.", badge: "Clásico" },
+    { type: "Segundo", name: "Papas a la huancaina", description: "Opción tradicional, contundente y sabrosa para el almuerzo.", badge: "Popular" },
+    { type: "Saludable", name: "Papas a la huancaina + Postre de fruta", description: "Versión más equilibrada para quienes quieren comer rico cuidando su rutina.", badge: "Fit" },
   ],
 };
 
