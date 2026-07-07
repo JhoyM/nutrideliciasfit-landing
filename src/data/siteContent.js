@@ -49,8 +49,8 @@ export const prices = [
 ];
 
 export const packs = [
-  { id: "pack10", title: "Combo 10", subtitle: "Ideal para iniciar una rutina saludable sin complicarte.", pay: "190 Bs", credit: "200 Bs", bonus: "+10 Bs de beneficio", validity: "30 días", highlight: false },
-  { id: "pack20", title: "Combo 20", subtitle: "La mejor opción para clientes recurrentes, oficina o semana completa.", pay: "370 Bs", credit: "400 Bs", bonus: "+30 Bs de beneficio", validity: "45 días", highlight: true },
+  { id: "pack10", title: "Combo 10", subtitle: "Ideal para iniciar una rutina saludable sin complicarte.", pay: "195 Bs", credit: "200 Bs", bonus: "+10 Bs de beneficio", validity: "30 días", highlight: false },
+  { id: "pack20", title: "Combo 20", subtitle: "La mejor opción para clientes recurrentes, oficina o semana completa.", pay: "380 Bs", credit: "400 Bs", bonus: "+20 Bs de beneficio", validity: "45 días", highlight: true },
 ];
 
 export const howToOrder = [
